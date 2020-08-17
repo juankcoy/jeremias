@@ -1,0 +1,52 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 02/06/2018 13:27
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("http://webstrot.com/html/street/html/fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("http://webstrot.com/html/street/html/css/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-banknote:before { content: "\f100"; }
+.flaticon-dish:before { content: "\f101"; }
+.flaticon-magnifier:before { content: "\f102"; }
+.flaticon-placeholder:before { content: "\f103"; }
+.flaticon-close-envelope:before { content: "\f104"; }
+.flaticon-agenda:before { content: "\f105"; }
+.flaticon-discount-sticker-with-percentage:before { content: "\f106"; }
+.flaticon-cutlery:before { content: "\f107"; }
+.flaticon-edit:before { content: "\f108"; }
+.flaticon-cheers:before { content: "\f109"; }
+.flaticon-hot-coffee-rounded-cup-on-a-plate-from-side-view:before { content: "\f10a"; }
+.flaticon-cup:before { content: "\f10b"; }
+.flaticon-trophy:before { content: "\f10c"; }
+.flaticon-user:before { content: "\f10d"; }
+.flaticon-chef-hat-outline-symbol:before { content: "\f10e"; }
+.flaticon-right-arrow:before { content: "\f10f"; }
+.flaticon-left-arrow:before { content: "\f110"; }
+.flaticon-food:before { content: "\f111"; }
+.flaticon-calendar:before { content: "\f112"; }
+.flaticon-road:before { content: "\f113"; }
+.flaticon-shopping-cart:before { content: "\f114"; }
